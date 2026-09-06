@@ -7,7 +7,7 @@ So here are my Language Modules which can be added to BBEdit, to give you syntax
 
 PostScript is **the** page description language *par exellence*. 
 
-SFZ is a text format that stores instrument data for computer sound synthesisers. https://sfzformat.com
+SFZ is a text format that stores instrument data for computer sound samplers and synthesisers. https://sfzformat.com
 
 INSTALLATION
 The latest versions of BBEdit reveal the folders for Language Modules (and other features) by selecting the Folders submenu of the BBEdit application menu. 
