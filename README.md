@@ -11,7 +11,9 @@ SFZ is a text format that stores instrument data for computer sound synthesisers
 
 INSTALLATION
 The latest versions of BBEdit reveal the folders for Language Modules (and other features) by selecting the Folders submenu of the BBEdit application menu. 
-Just drop the files into that folder. You can also navigate to {user}/Library/Containers/com.barebones.bbedit/Data/Library/Application Support/BBEdit/Language Modules'.
+Just drop the files into that folder. You can also navigate to:
+
+`{user}/Library/Containers/com.barebones.bbedit/Data/Library/Application Support/BBEdit/Language Modules`
 
 
 LICENCE
