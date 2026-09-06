@@ -24,6 +24,9 @@
 <key>ampeg_attack_shape</key>
 <key>ampeg_attack</key>
 <key>ampeg_attackcc</key>
+<key>ampeg_attack_curve</key>
+<key>ampeg_attack_curvecc</key>
+<key>ampeg_decay_curve</key>
 <key>ampeg_decay_curvecc</key>
 <key>ampeg_decay_oncc</key>
 <key>ampeg_decay_shape</key>
@@ -34,10 +37,12 @@
 <key>ampeg_delay</key>
 <key>ampeg_delaycc</key>
 <key>ampeg_dynamic</key>
-<key>ampeg_hold_curvecc</key>
+<key>ampeg_hold_curve</key>
 <key>ampeg_hold_oncc</key>
 <key>ampeg_hold</key>
 <key>ampeg_holdcc</key>
+<key>ampeg_release_curve</key>
+<key>ampeg_release_curvecc</key>
 <key>ampeg_release_oncc</key>
 <key>ampeg_release_shape</key>
 <key>ampeg_release_zero</key>
@@ -46,6 +51,7 @@
 <key>ampeg_start_oncc</key>
 <key>ampeg_start</key>
 <key>ampeg_startcc</key>
+<key>ampeg_sustain_curve</key>
 <key>ampeg_sustain_curvecc</key>
 <key>ampeg_sustain_oncc</key>
 <key>ampeg_sustain</key>
